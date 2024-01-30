@@ -8,12 +8,3 @@ The provided SQL queries analyze various aspects of the music store database, in
 ### Dataset
 The dataset comprises multiple CSV files representing various aspects of the music store, including customer details, invoice information, tracks, albums, artists, and genres.
 
-### Key Queries
-- **City with the Best Customers**: Identify cities with the highest invoice totals.
-- **Best Customer**: Find the top-spending customer.
-- **Rock Music Listeners**: Retrieve details of customers who enjoy rock music.
-- **Top Rock Artists**: Discover the most prolific rock bands in the dataset.
-- **Longer-than-Average Tracks**: Identify tracks longer than the average length.
-- **Customer Spending on Artists**: Calculate spending on the best-selling artist.
-- **Popular Genre by Country**: Determine popular genres in each country.
-- **Top-Spending Customer by Country**: Find the highest-spending customer per country.
